@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 👋, I'm Hadjer
 
-<!--
-**Elarbi-Tolhi-Hadjer/Elarbi-Tolhi-Hadjer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Front-End Developer | HTML • CSS • JavaScript • Bootstrap  
+💻 Passionate about clean & responsive user interfaces  
+🎓 Master’s Student in Computer Science (SID) | licence in ISIL  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- HTML5, CSS3, JavaScript (ES6+)
+- Bootstrap for responsive design
+- Git & GitHub for version control
+- Figma for UI/UX prototyping
+- 
+---
+
+## 📫 How to reach me
+- LinkedIn: [hadjer-elarbi](https://www.linkedin.com/in/hadjer-elarbi/)  
+- Behance: [behance.net](https://www.behance.net/)  
+- GitHub: [Elarbi-Tolhi-Hadjer](https://github.com/Elarbi-Tolhi-Hadjer)
+- Instagram: [et.had.jer](https://www.instagram.com/et.had.jer/))
+
+
