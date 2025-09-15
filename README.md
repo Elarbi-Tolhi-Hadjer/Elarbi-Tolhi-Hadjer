@@ -18,6 +18,6 @@
 - LinkedIn: [hadjer-elarbi](https://www.linkedin.com/in/hadjer-elarbi/)  
 - Behance: [behance.net](https://www.behance.net/)  
 - GitHub: [Elarbi-Tolhi-Hadjer](https://github.com/Elarbi-Tolhi-Hadjer)
-- Instagram: [et.had.jer](https://www.instagram.com/et.had.jer/))
+- Instagram: [et.had.jer](https://www.instagram.com/et.had.jer/)
 
 
